@@ -5,7 +5,7 @@ services:
   web:
     image: nginx:1.17
     ports:
-      - 80:80
+      - 81:81
     volumes:
       - /Users/zychm/Docker-101/site:/var/www/helloWorld
       - /Users/zychm/Docker-101/nginx.conf:/etc/nginx/conf.d/nginx.conf
