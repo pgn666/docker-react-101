@@ -27,6 +27,18 @@ After completing this step and rebuilding docker one should have:
 ![react-screenshot][react-screenshot]
 ![static-site-screenshot][static-site-screenshot]
 
+### step 6
+
+For starting docker app I will use this tutorial:
+
+<https://reactjs.org/docs/create-a-new-react-app.html#create-react-app>
+
+npx create-react-app my-app
+than move files form my-app to our project folder.
+![react-builded][react-builded]
+
+
 <!-- MARKDOWN LINKS & IMAGES -->
 [react-screenshot]: images/react-index.png
 [static-site-screenshot]: images/static-hello-world.png
+[react-builded]: images/react-builded.png
