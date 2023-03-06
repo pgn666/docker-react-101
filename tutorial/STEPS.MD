@@ -42,3 +42,10 @@ than move files form my-app to our project folder.
 [react-screenshot]: images/react-index.png
 [static-site-screenshot]: images/static-hello-world.png
 [react-builded]: images/react-builded.png
+
+### step 7 - optional
+
+Setup nginx http proxy to have app on 80 port together with P+
+
+hints:
+https://stackoverflow.com/questions/31822862/how-to-host-two-docker-containers-exposing-port-80-on-the-same-server
