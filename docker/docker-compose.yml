@@ -7,5 +7,5 @@ services:
     ports:
       - 81:81
     volumes:
-      - /Users/zychm/Docker-101/helloWorld:/var/www/helloWorld
+      - /Users/zychm/Docker-101/build:/var/www/public_html
       - /Users/zychm/Docker-101/docker/nginx.conf:/etc/nginx/conf.d/nginx.conf
